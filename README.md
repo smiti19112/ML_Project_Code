@@ -50,7 +50,7 @@ drawing the following conclusions.
   Looking at the results mentioned in “Table 2”, we find KNN to be the best model for our dataset. From our evaluation till the midterm, we found the random forest to be the       best model; however, after changing preprocessing steps, various other analysis measures, and trying out several different models, we found KNN to be better because of high     recall. (Recall is important because we want fewer false negatives due to the disease-related dataset).
   
  Learnings :
- ● We each read a research paper which helped in discovering new ideas and guided our project.
+● We each read a research paper which helped in discovering new ideas and guided our project.
   
 ● We learned about the different EDA techniques and tried various inbuilt functions to explore and visualize the dataset.
   
