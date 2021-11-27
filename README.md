@@ -84,4 +84,4 @@ KNN                       0.8415672913117547              0.7687253613666228    
 SGD                       0.5178875638841567              0.5125324114088159          0.9966386554621849
 SVM                       0.6448040885860307              0.6463815789473685          0.6605042016806723
 
-![alt text](https://drive.google.com/uc?export=view&id=<1sfKyQZdg4LF4DkYjLO_bN5XHYiExpBBM>)
+![alt text](https://github.com/smiti19112/ML_Project_Code/blob/Tables/table1.png)
