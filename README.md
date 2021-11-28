@@ -74,10 +74,13 @@ drawing the following conclusions.
 References :
 
 Table 1:
+
 ![alt text](https://github.com/smiti19112/ML_Project_Code/blob/Tables/table1.png)
 
 Table 2:
+
 ![alt text](https://github.com/smiti19112/ML_Project_Code/blob/Tables/table3.png)
 
 Table 3:
+
 ![alt text](https://github.com/smiti19112/ML_Project_Code/blob/Tables/table2.png)
