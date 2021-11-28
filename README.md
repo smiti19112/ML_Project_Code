@@ -72,17 +72,6 @@ drawing the following conclusions.
 ● Using KMeans clustering for unsupervised evaluation, we see a reduction in the error as the number of clusters increases. This might be because when the number of clusters       increases, the number of points in a cluster decreases. If we consider circular points, then the error would be the distance from the median. So as the clusters increase,       there will come a time when there will be only one point in the cluster. Since that point would be the median itself, the error would become 0. This logic can help us develop   intuition about why error reduces as the number of clusters increases.
 
 References :
-Table 2 :
-
-Model                         Accuracy                        Precision                     Recall
-Logistic Regression       0.6303236797274276              0.6362098138747885          0.6319327731092437
-Decision Tree             0.7879045996592845              0.7772435897435898          0.8151260504201681
-Gaussian NB               0.6039182282793867              0.6450892857142857          0.4857142857142857
-Random Forest             0.8620102214650767              0.8464                      0.8890756302521008
-Ada Boost                 0.6908006814310051              0.6972789115646258          0.6890756302521008
-KNN                       0.8415672913117547              0.7687253613666228          0.9831932773109243
-SGD                       0.5178875638841567              0.5125324114088159          0.9966386554621849
-SVM                       0.6448040885860307              0.6463815789473685          0.6605042016806723
 
 Table 1:
 ![alt text](https://github.com/smiti19112/ML_Project_Code/blob/Tables/table1.png)
